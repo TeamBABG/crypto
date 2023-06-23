@@ -1,1 +1,6 @@
-
+{
+  "name": "Llama Coin",
+  "symbol": "$LC",
+  "description": "Llama Coin",
+  "image": "https://raw.githubusercontent.com/TeamBABG/crypto/main/New%20Project.jpg"
+}
